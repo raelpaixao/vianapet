@@ -752,9 +752,8 @@ select {
         padding: 0.5rem;
         cursor: pointer;
         box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
-
     }
-    /* × */
+
     .close-menu:checked~.menu {
         display: block;
     }
@@ -851,15 +850,15 @@ select {
     }
 
     table caption {
-        font-size: 0.5rem;
+        font-size: 0.7rem;
     }
 
     table th {
-      font-size: 1rem;
+      font-size: 1.3rem;
     }
     
     table td {
-      font-size: 0.8rem;
+      font-size: 1rem;
     }
 
 
@@ -902,11 +901,11 @@ select {
     }
 
     .contato-text-content h3 {
-        font-size: 3rem;
+        font-size: 2.8rem;
     }
 
     .contato-text-content h4 {
-        font-size: 3rem;
+        font-size: 3.2rem;
     }
 
     .contato-text-content img {
@@ -919,7 +918,7 @@ select {
     }
 
     .form-grid legend {
-        font-size: 2rem;
+        font-size: 1.6rem;
         text-align: left;
     }
 
@@ -955,23 +954,13 @@ select {
     }
 
     .menu-content, .menu-content ul li a {
-        font-size: 1rem;
-    }
-
-    
-    .close-menu-label::after {
-        top: 1rem;
-        right: 1rem;
         font-size: 2rem;
-        line-height: 2rem;
-        width: 2rem;
-        height: 2rem;
     }
     
     .back-to-top {
-        bottom: 0.5rem;
-        right: 0.5rem;
-        width: 2.5rem;
-        height: 2.5rem;
-    }
+        bottom: 1.8rem;
+        width: 4.7rem;
+        height: 4.7rem;
+}
+
 }
