@@ -1,1 +1,1 @@
-alert('ATENÇÂO - O conteúdo deste site é fictício. Nomes, marcas e meios de contato são genericos e inexistentes.')
+alert('ATENÇÂO - O conteúdo deste site é fictício. Nomes, marcas e meios de contato são genericos e inexistentes.');
